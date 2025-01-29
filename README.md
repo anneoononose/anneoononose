@@ -1,41 +1,39 @@
-# Anne Ononose
-## Product Manager & Technical Leader
+# Hi there! 👋 I'm Anne Ononose
 
-🚀 Aspiring Product Manager with a strong foundation in PMO and technical project management. Currently building innovative solutions focused on user experience and business impact.
+## 🚀 Aspiring Product Manager
 
-### 🛠 Current Projects
+PMO professional transitioning to Product Management, passionate about building impactful tech products.
 
-1. **DevMetrics** - Chrome Extension for Developer Productivity
-   - Building developer-focused analytics tools
-   - Tech Stack: JavaScript, Chrome API, Analytics
-   - Status: In Development
+### 💼 Experience
+- **Project Operations Specialist (Intern)** - Splunk (Summer 2024)
+  - Led process improvement initiatives (25% efficiency gain)
+  - Managed cross-functional deliverables
+  - Collaborated with 15+ stakeholders
 
-2. **Study Resource Aggregator**
-   - Content organization and learning platform
-   - Tech Stack: React, Firebase, REST APIs
-   - Status: Planning Phase
+### 🚀 Current Project
+- **DevMetrics** (In Development)
+  - Chrome extension for developer productivity
+  - Building with: JavaScript, Chrome API, GitHub Integration
+  - [View Project](https://github.com/anneeoononose/DevMetrics)
 
-3. **Productivity Analytics Dashboard**
-   - Data visualization and insights platform
-   - Tech Stack: Python, SQL, Data Analytics
-   - Status: Research Phase
+### 📝 Upcoming Projects (Q1-Q2 2025)
+- **CodePath**: Open-source learning platform
+- **TeamSync/PublicPulse**: Team collaboration tools
 
-### 💼 Professional Experience
+### 🎯 Skills
+- Project Management (PMO)
+- Technical Documentation
+- Cross-functional Collaboration
+- Process Optimization
+- Currently Learning: Product Management
 
-- **Project Operations Specialist** at Splunk
-  - Led EATO Templates 2.0 project
-  - Improved process efficiency by 25%
-  - Managed cross-functional stakeholders
+### 📚 Education & Training
+- Currently: FAANG PM Bootcamp 2025
+- Learning: Product Strategy, User Research, Data Analytics
 
-### 🔧 Skills & Tools
+### 🤝 Connect With Me
+- Open to product discussions and collaboration
+- 📫 Reach me: [LinkedIn - Coming Soon]
 
-- **Product Management:** Agile, Scrum, User Stories, PRDs
-- **Technical:** SQL, Python, Data Analysis
-- **Tools:** JIRA, Confluence, Figma, GitHub
-- **Analytics:** A/B Testing, User Research, Metrics
-
-### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Coming Soon]
-
-*Currently developing AI-enhanced productivity tools and seeking Product Management opportunities at innovative tech companies.*
+### 📊 GitHub Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anneeoononose&show_icons=true&theme=dracula)
