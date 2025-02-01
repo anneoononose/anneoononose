@@ -1,57 +1,60 @@
 # Hi there! 👋 I'm Anne Ononose
 
-## 🚀 Aspiring Product Manager
+## Founder building DataLoom.AI: Democratizing Data Visualization with AI
 
-Technology Leadership graduate driving community growth and product innovation. Combining technical knowledge with proven ability to scale user engagement.
+I'm passionate about making complex data accessible through AI-powered solutions. Currently building DataLoom.AI, an enterprise SaaS platform that transforms complex datasets into automated insights using GPT-4 technology.
 
-### 📚 Education
-- **Bachelor of Science (BS)** - University of Houston
-  - Technology Leadership and Innovation Management
-  - Focus: Product Strategy, Innovation, Leadership Development
+### 🚀 Current Projects
 
-### 💼 Professional Experience
-- **Project Operations Specialist (Intern)** - Splunk (Summer 2024)
-  - Led process improvement initiatives (25% efficiency gain)
+#### DataLoom.AI (Founder)
+- AI-powered enterprise data visualization platform
+- Stack: React, Firebase, OpenAI GPT-4
+- Focus: Automated insights, enterprise analytics
+- Status: In development, launching Q3 2025
+
+#### CodePace.io (Technical Product Manager)
+- Developer productivity analytics platform
+- Chrome extension with GitHub integration
+- Stack: JavaScript, Chrome API, D3.js
+- Status: MVP development
+
+### 💼 Professional Background
+
+- **Project Operations Specialist** - Splunk (Summer 2024)
+  - Led process optimization initiatives (25% efficiency gain)
   - Managed cross-functional deliverables
   - Collaborated with 15+ stakeholders
 
-### 🌟 Leadership Experience
-- **Community Engagement Manager** - National Society of Leadership and Success (2020-Present)
-  - Achieved 15x member growth (500+ to 9,700+ members) through data-driven engagement strategies
-  - Led remote team of 3 to scale event reach from 1,000 to 15,000+ attendees
-  - Built partnerships with 50+ global organizations, resulting in 75+ successful events
-  - Implemented community feedback system improving member satisfaction by 40%
-  - Designed onboarding flow reducing member drop-off by 35%
-  - Created engagement analytics dashboard for tracking community health metrics
+### 📚 Education
 
-### 🚀 Current Project
-- **DevMetrics** (In Development)
-  - Chrome extension for developer productivity
-  - Focus: GitHub integration, activity tracking, performance analytics
-  - Building with: JavaScript, Chrome API, GitHub Integration
-  - [View Project](https://github.com/anneeoononose/DevMetrics)
+- **Bachelor of Science** - University of Houston
+  - Technology Leadership and Innovation Management
+  - Focus: Product Strategy, Innovation, Leadership
 
-### 📝 Upcoming Projects (Q1-Q2 2025)
-- **CodePath**: Open-source learning platform
-- **TeamSync**: Team collaboration tools
+### 🌟 Leadership
 
-### 🎯 Skills
-- Community Growth & Engagement
-- Product Strategy
-- Data-Driven Decision Making
-- User Research & Feedback
-- Technical Leadership
-- Partnership Development
-- Analytics & Metrics
-- Event Management
+- **Community Engagement Manager** - NSLS
+  - Led remote team scaling event reach to 15,000+ attendees
+  - Implemented data-driven engagement strategies
+  - Built partnerships with 50+ organizations
 
-### 📚 Current Focus
-- FAANG PM Bootcamp 2025
-- Advanced Product Management
-- Technical Architecture
-- AI/ML Product Integration
+### 💻 Technical Skills
 
-### 🤝 Connect With Me
-- Open to product discussions and collaboration
-- Passionate about community-driven products
-- 📫 Reach me: [LinkedIn - Coming Soon]
+- **Product Development**: React, Firebase, OpenAI API
+- **Data Visualization**: D3.js, Chart.js
+- **Analytics**: SQL, Python, Data Analysis
+- **Tools**: Figma, Git, Agile/Scrum
+
+### 🎯 Current Focus
+
+- Building DataLoom.AI's core visualization engine
+- Integrating advanced AI capabilities
+- Developing enterprise features
+- Growing user base and gathering feedback
+
+### 📫 Connect
+
+- www.linkedin.com/in/anneononose/
+- Email: anneoononose@gmail.com
+
+*Passionate about AI, data visualization, and building products that make complex data accessible to everyone.*
